@@ -14,8 +14,6 @@ body {
 }
 .footer-2,
 .wrapper-for-content-outside-of-footer:after {
-  height: 17em;
-
   @include media($large-screen) {
     height: 4em;
   }
@@ -24,7 +22,7 @@ body {
 .footer-2 {
   ///////////////////////////////////////////////////////////////////////////////////
   $base-spacing: 1.5em !default;
-  $base-accent-color: #477DCA !default;
+  $base-accent-color: #000 !default;
   $medium-screen: em(640) !default;
   $large-screen: em(860) !default;
 
@@ -99,7 +97,7 @@ body {
 
   .footer-secondary-links {
     @include media($large-screen) {
-      float: right;
+      float: left;
     }
 
     li {
@@ -111,14 +109,12 @@ body {
       margin-top: 1em;
 
       @include media($large-screen) {
-        float: right;
+        float: left;
         margin-top: 0;
       }
 
       li {
         font-size: 1em;
-        float: left;
-        line-height: 0;
         padding-right: 0.7em;
 
         &:last-child {

@@ -1,23 +1,53 @@
+%h2.align Work
+.cards#work
+  .card
+    .card-image
+      = link_to 'http://pacificpower.foreignpolicy.com/' do
+        = image_tag 'fp.png'
+    .card-header
+      The Pacific Power Index
+    .card-copy
+      %p From moguls to migrants, Harvard to Huawei: 50 people shaping the future of the U.S.–China relationship.
+  .card
+    .card-image
+      = link_to 'http://foreignpolicy.com/2015/01/09/chinas-anti-corruption-campaign-ensnares-tens-of-thousands-more/' do
+        = image_tag 'china.png'
+    .card-header
+      China's Anti-Corruption Campaign
+    .card-copy
+      %p Over 100,000 cadres have now been disciplined as part of President Xi Jinping's anti-graft drive.
+  .card
+    .card-image
+      = link_to 'http://foreignpolicy.com/2015/01/06/do-chinese-care-about-american-decline-in-2014-they-did-only-twice/' do
+        = image_tag 'qihoo.png'
+    .card-header
+      “Chinese Rise” VS. “American Decline”
+    .card-copy
+      %p
+        Exceptions prove the rule that China is more interested in its own rise than anything else.
 .cards
   .card
     .card-image
-      %img{:alt => "", :src => "https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png"}/
+      = link_to 'http://foreignpolicy.com/2014/12/11/hong-kong-the-resilient-city-charts-data/' do
+        = image_tag 'hk.png'
     .card-header
-      First Card
+      Hong Kong, the Resilient City
     .card-copy
-      %p Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, officiis sunt neque facilis culpa molestiae necessitatibus delectus veniam provident.
+      %p Economic and political data show that dire warnings about the pro-democracy protests have proven inaccurate.
   .card
     .card-image
-      %img{:alt => "", :src => "https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains-4.png"}/
+      = link_to 'http://foreignpolicy.com/2014/10/14/the-movement-that-changed-hong-kong-a-timeline/' do
+        = image_tag 'fp.png'
     .card-header
-      Another Card
+      The Movement That Changed Hong Kong: A Timeline
     .card-copy
-      %p Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, officiis sunt neque facilis culpa molestiae necessitatibus delectus veniam provident.
+      %p A day-by-day account of the pro-democracy protests that have turned the once apolitical city on its ear.
   .card
     .card-image
-      %img{:alt => "", :src => "https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains-3.png"}/
+      = link_to 'https://medium.com/@sidneyleng/mr-wu-goes-to-washington-16b5d3f6a5d7' do
+        = image_tag 'medium.png'
     .card-header
-      The Last Card
+      Mr. Wu Goes to Washington
     .card-copy
       %p
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        A Chinese human rights activist journeyed east – to the Capitol Hill.

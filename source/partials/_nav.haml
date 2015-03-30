@@ -1,13 +1,11 @@
 %header.navigation{:role => "banner"}
   .navigation-wrapper
-    %a.logo{:href => "javascript:void(0)"}
+    %a.logo{:href => "/index.html"}
       = image_tag 'data.png'
     %a#js-mobile-menu.navigation-menu-button{:href => "javascript:void(0)"} MENU
     %nav{:role => "navigation"}
       %ul#js-navigation-menu.navigation-menu.show
         %li.nav-link
-          %a{:href => "#about"} About
+          = link_to 'Resume', '/resume.html'
         %li.nav-link
-          %a{:href => "#portfolio"} Portfolio
-        %li.nav-link
-          %a{:href => "#articles"} Articles
+          %a{:href => "/index.html#work"} Work

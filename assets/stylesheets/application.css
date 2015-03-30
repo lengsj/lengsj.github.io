@@ -5,7 +5,7 @@
  * 2. Prevent iOS text size adjust after orientation change, without disabling
  *    user zoom.
  */
-/* line 10, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 10, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 html {
   font-family: sans-serif;
   /* 1 */
@@ -17,7 +17,7 @@ html {
 /**
  * Remove default margin.
  */
-/* line 20, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 20, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 body {
   margin: 0; }
 
@@ -29,7 +29,7 @@ body {
  * and Firefox.
  * Correct `block` display not defined for `main` in IE 11.
  */
-/* line 34, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 34, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 article,
 aside,
 details,
@@ -49,7 +49,7 @@ summary {
  * 1. Correct `inline-block` display not defined in IE 8/9.
  * 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera.
  */
-/* line 55, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 55, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 audio,
 canvas,
 progress,
@@ -63,7 +63,7 @@ video {
  * Prevent modern browsers from displaying `audio` without controls.
  * Remove excess height in iOS 5 devices.
  */
-/* line 68, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 68, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 audio:not([controls]) {
   display: none;
   height: 0; }
@@ -72,7 +72,7 @@ audio:not([controls]) {
  * Address `[hidden]` styling not present in IE 8/9/10.
  * Hide the `template` element in IE 8/9/11, Safari, and Firefox < 22.
  */
-/* line 78, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 78, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 [hidden],
 template {
   display: none; }
@@ -82,14 +82,14 @@ template {
 /**
  * Remove the gray background color from active links in IE 10.
  */
-/* line 90, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 90, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 a {
   background-color: transparent; }
 
 /**
  * Improve readability when focused and also mouse hovered in all browsers.
  */
-/* line 98, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 98, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 a:active,
 a:hover {
   outline: 0; }
@@ -99,14 +99,14 @@ a:hover {
 /**
  * Address styling not present in IE 8/9/10/11, Safari, and Chrome.
  */
-/* line 110, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 110, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 abbr[title] {
   border-bottom: 1px dotted; }
 
 /**
  * Address style set to `bolder` in Firefox 4+, Safari, and Chrome.
  */
-/* line 118, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 118, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 b,
 strong {
   font-weight: bold; }
@@ -114,7 +114,7 @@ strong {
 /**
  * Address styling not present in Safari and Chrome.
  */
-/* line 127, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 127, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 dfn {
   font-style: italic; }
 
@@ -122,7 +122,7 @@ dfn {
  * Address variable `h1` font-size and margin within `section` and `article`
  * contexts in Firefox 4+, Safari, and Chrome.
  */
-/* line 136, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 136, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 h1 {
   font-size: 2em;
   margin: 0.67em 0; }
@@ -130,7 +130,7 @@ h1 {
 /**
  * Address styling not present in IE 8/9.
  */
-/* line 145, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 145, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 mark {
   background: #ff0;
   color: #000; }
@@ -138,14 +138,14 @@ mark {
 /**
  * Address inconsistent and variable font size in all browsers.
  */
-/* line 154, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 154, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 small {
   font-size: 80%; }
 
 /**
  * Prevent `sub` and `sup` affecting `line-height` in all browsers.
  */
-/* line 162, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 162, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 sub,
 sup {
   font-size: 75%;
@@ -153,11 +153,11 @@ sup {
   position: relative;
   vertical-align: baseline; }
 
-/* line 170, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 170, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 sup {
   top: -0.5em; }
 
-/* line 174, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 174, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 sub {
   bottom: -0.25em; }
 
@@ -166,14 +166,14 @@ sub {
 /**
  * Remove border when inside `a` element in IE 8/9/10.
  */
-/* line 185, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 185, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 img {
   border: 0; }
 
 /**
  * Correct overflow not hidden in IE 9/10/11.
  */
-/* line 193, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 193, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 svg:not(:root) {
   overflow: hidden; }
 
@@ -182,14 +182,14 @@ svg:not(:root) {
 /**
  * Address margin not present in IE 8/9 and Safari.
  */
-/* line 204, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 204, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 figure {
   margin: 1em 40px; }
 
 /**
  * Address differences between Firefox and other browsers.
  */
-/* line 212, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 212, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
@@ -198,14 +198,14 @@ hr {
 /**
  * Contain overflow in all browsers.
  */
-/* line 222, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 222, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 pre {
   overflow: auto; }
 
 /**
  * Address odd `em`-unit font size rendering in all browsers.
  */
-/* line 230, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 230, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 code,
 kbd,
 pre,
@@ -225,7 +225,7 @@ samp {
  * 2. Correct font properties not being inherited.
  * 3. Address margins set differently in Firefox 4+, Safari, and Chrome.
  */
-/* line 253, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 253, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 button,
 input,
 optgroup,
@@ -241,7 +241,7 @@ textarea {
 /**
  * Address `overflow` set to `hidden` in IE 8/9/10/11.
  */
-/* line 267, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 267, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 button {
   overflow: visible; }
 
@@ -251,7 +251,7 @@ button {
  * Correct `button` style inheritance in Firefox, IE 8/9/10/11, and Opera.
  * Correct `select` style inheritance in Firefox.
  */
-/* line 278, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 278, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 button,
 select {
   text-transform: none; }
@@ -263,7 +263,7 @@ select {
  * 3. Improve usability and consistency of cursor style between image-type
  *    `input` and others.
  */
-/* line 291, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 291, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 button,
 html input[type="button"],
 input[type="reset"],
@@ -276,7 +276,7 @@ input[type="submit"] {
 /**
  * Re-set default cursor for disabled elements.
  */
-/* line 303, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 303, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 button[disabled],
 html input[disabled] {
   cursor: default; }
@@ -284,7 +284,7 @@ html input[disabled] {
 /**
  * Remove inner padding and border in Firefox 4+.
  */
-/* line 312, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 312, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
@@ -294,7 +294,7 @@ input::-moz-focus-inner {
  * Address Firefox 4+ setting `line-height` on `input` using `!important` in
  * the UA stylesheet.
  */
-/* line 323, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 323, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 input {
   line-height: normal; }
 
@@ -305,7 +305,7 @@ input {
  * 1. Address box sizing set to `content-box` in IE 8/9/10.
  * 2. Remove excess padding in IE 8/9/10.
  */
-/* line 335, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 335, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
@@ -318,7 +318,7 @@ input[type="radio"] {
  * `font-size` values of the `input`, it causes the cursor style of the
  * decrement button to change from `default` to `text`.
  */
-/* line 347, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 347, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 input[type="number"]::-webkit-inner-spin-button,
 input[type="number"]::-webkit-outer-spin-button {
   height: auto; }
@@ -328,7 +328,7 @@ input[type="number"]::-webkit-outer-spin-button {
  * 2. Address `box-sizing` set to `border-box` in Safari and Chrome
  *    (include `-moz` to future-proof).
  */
-/* line 358, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 358, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 input[type="search"] {
   -webkit-appearance: textfield;
   /* 1 */
@@ -342,7 +342,7 @@ input[type="search"] {
  * Safari (but not Chrome) clips the cancel button when the search input has
  * padding (and `textfield` appearance).
  */
-/* line 371, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 371, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none; }
@@ -350,7 +350,7 @@ input[type="search"]::-webkit-search-decoration {
 /**
  * Define consistent border, margin, and padding.
  */
-/* line 380, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 380, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
@@ -360,7 +360,7 @@ fieldset {
  * 1. Correct `color` not being inherited in IE 8/9/10/11.
  * 2. Remove padding so people aren't caught out if they zero out fieldsets.
  */
-/* line 391, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 391, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 legend {
   border: 0;
   /* 1 */
@@ -370,7 +370,7 @@ legend {
 /**
  * Remove default vertical scrollbar in IE 8/9/10/11.
  */
-/* line 400, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 400, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 textarea {
   overflow: auto; }
 
@@ -378,7 +378,7 @@ textarea {
  * Don't inherit the `font-weight` (applied by a rule above).
  * NOTE: the default cannot safely be changed in Chrome and Safari on OS X.
  */
-/* line 409, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 409, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 optgroup {
   font-weight: bold; }
 
@@ -387,12 +387,12 @@ optgroup {
 /**
  * Remove most spacing between table cells.
  */
-/* line 420, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 420, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-/* line 425, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/vendor/normalize.css */
+/* line 425, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/vendor/normalize.css */
 td,
 th {
   padding: 0; }
@@ -409,7 +409,7 @@ html {
   -moz-box-sizing: inherit;
   box-sizing: inherit; }
 
-/* line 1, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_buttons.scss */
+/* line 1, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_buttons.scss */
 input[type="button"], input[type="reset"], input[type="submit"],
 button {
   -webkit-appearance: none;
@@ -433,26 +433,26 @@ button {
   user-select: none;
   vertical-align: middle;
   white-space: nowrap; }
-  /* line 21, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_buttons.scss */
+  /* line 21, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_buttons.scss */
   input[type="button"]:hover, input[type="button"]:focus, input[type="reset"]:hover, input[type="reset"]:focus, input[type="submit"]:hover, input[type="submit"]:focus,
   button:hover,
   button:focus {
     background-color: #2c5999;
     color: #fff; }
-  /* line 27, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_buttons.scss */
+  /* line 27, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_buttons.scss */
   input[type="button"]:disabled, input[type="reset"]:disabled, input[type="submit"]:disabled,
   button:disabled {
     cursor: not-allowed;
     opacity: 0.5; }
 
-/* line 1, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_forms.scss */
+/* line 1, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_forms.scss */
 fieldset {
   background-color: #f7f7f7;
   border: 1px solid #ddd;
   margin: 0 0 0.75em;
   padding: 1.5em; }
 
-/* line 8, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_forms.scss */
+/* line 8, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_forms.scss */
 input,
 label,
 select {
@@ -460,18 +460,18 @@ select {
   font-family: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   font-size: 1em; }
 
-/* line 16, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_forms.scss */
+/* line 16, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_forms.scss */
 label {
   font-weight: 600;
   margin-bottom: 0.375em; }
-  /* line 20, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_forms.scss */
+  /* line 20, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_forms.scss */
   label.required::after {
     content: "*"; }
-  /* line 24, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_forms.scss */
+  /* line 24, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_forms.scss */
   label abbr {
     display: none; }
 
-/* line 29, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_forms.scss */
+/* line 29, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_forms.scss */
 input[type="email"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="url"], input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="time"], input[type="week"],
 select[multiple=multiple],
 textarea {
@@ -486,12 +486,12 @@ textarea {
   padding: 0.5em;
   transition: border-color;
   width: 100%; }
-  /* line 44, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_forms.scss */
+  /* line 44, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_forms.scss */
   input[type="email"]:hover, input[type="number"]:hover, input[type="password"]:hover, input[type="search"]:hover, input[type="tel"]:hover, input[type="text"]:hover, input[type="url"]:hover, input[type="color"]:hover, input[type="date"]:hover, input[type="datetime"]:hover, input[type="datetime-local"]:hover, input[type="month"]:hover, input[type="time"]:hover, input[type="week"]:hover,
   select[multiple=multiple]:hover,
   textarea:hover {
     border-color: #c4c4c4; }
-  /* line 48, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_forms.scss */
+  /* line 48, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_forms.scss */
   input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus,
   select[multiple=multiple]:focus,
   textarea:focus {
@@ -499,11 +499,11 @@ textarea {
     box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06), 0 0 5px rgba(55, 112, 192, 0.7);
     outline: none; }
 
-/* line 55, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_forms.scss */
+/* line 55, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_forms.scss */
 textarea {
   resize: vertical; }
 
-/* line 59, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_forms.scss */
+/* line 59, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_forms.scss */
 input[type="search"] {
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -511,41 +511,41 @@ input[type="search"] {
   -o-appearance: none;
   appearance: none; }
 
-/* line 63, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_forms.scss */
+/* line 63, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_forms.scss */
 input[type="checkbox"],
 input[type="radio"] {
   display: inline;
   margin-right: 0.375em; }
 
-/* line 69, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_forms.scss */
+/* line 69, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_forms.scss */
 input[type="file"] {
   padding-bottom: 0.75em;
   width: 100%; }
 
-/* line 74, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_forms.scss */
+/* line 74, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_forms.scss */
 select {
   margin-bottom: 1.5em;
   max-width: 100%;
   width: auto; }
 
-/* line 1, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_lists.scss */
+/* line 1, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_lists.scss */
 ul,
 ol {
   list-style-type: none;
   margin: 0;
   padding: 0; }
-/* line 20, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_lists.scss */
+/* line 20, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_lists.scss */
 dl {
   margin-bottom: 0.75em; }
-  /* line 23, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_lists.scss */
+  /* line 23, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_lists.scss */
   dl dt {
     font-weight: bold;
     margin-top: 0.75em; }
-  /* line 28, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_lists.scss */
+  /* line 28, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_lists.scss */
   dl dd {
     margin: 0; }
 
-/* line 1, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_tables.scss */
+/* line 1, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_tables.scss */
 table {
   -webkit-font-feature-settings: "kern", "liga", "tnum";
   -moz-font-feature-settings: "kern", "liga", "tnum";
@@ -556,25 +556,25 @@ table {
   table-layout: fixed;
   width: 100%; }
 
-/* line 9, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_tables.scss */
+/* line 9, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_tables.scss */
 th {
   border-bottom: 1px solid #b7b7b7;
   font-weight: 600;
   padding: 0.75em 0;
   text-align: left; }
 
-/* line 16, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_tables.scss */
+/* line 16, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_tables.scss */
 td {
   border-bottom: 1px solid #ddd;
   padding: 0.75em 0; }
 
-/* line 21, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_tables.scss */
+/* line 21, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_tables.scss */
 tr,
 td,
 th {
   vertical-align: middle; }
 
-/* line 1, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_typography.scss */
+/* line 1, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_typography.scss */
 body {
   -webkit-font-feature-settings: "kern", "liga", "pnum";
   -moz-font-feature-settings: "kern", "liga", "pnum";
@@ -586,7 +586,7 @@ body {
   font-size: 1em;
   line-height: 1.5; }
 
-/* line 10, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_typography.scss */
+/* line 10, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_typography.scss */
 h1,
 h2,
 h3,
@@ -598,23 +598,23 @@ h6 {
   line-height: 1.2;
   margin: 0 0 0.75em; }
 
-/* line 22, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_typography.scss */
+/* line 22, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_typography.scss */
 p {
   margin: 0 0 0.75em; }
 
-/* line 26, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_typography.scss */
+/* line 26, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_typography.scss */
 a {
   color: #477dca;
   text-decoration: none;
   transition: color 0.1s linear; }
-  /* line 31, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_typography.scss */
+  /* line 31, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_typography.scss */
   a:active, a:focus, a:hover {
     color: #2c5999; }
-  /* line 37, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_typography.scss */
+  /* line 37, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_typography.scss */
   a:active, a:focus {
     outline: none; }
 
-/* line 43, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_typography.scss */
+/* line 43, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_typography.scss */
 hr {
   border-bottom: 1px solid #ddd;
   border-left: none;
@@ -622,23 +622,23 @@ hr {
   border-top: none;
   margin: 1.5em 0; }
 
-/* line 51, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_typography.scss */
+/* line 51, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_typography.scss */
 img,
 picture {
   margin: 0;
   max-width: 100%; }
 
-/* line 1, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+/* line 1, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
 header.navigation {
   background-color: white;
   border-bottom: 1px solid #e6e6e6;
   min-height: 60px;
   width: 100%;
   z-index: 999; }
-  /* line 9, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+  /* line 9, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
   header.navigation a {
     text-decoration: none; }
-  /* line 35, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+  /* line 35, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
   header.navigation .navigation-wrapper {
     max-width: 68em;
     margin-left: auto;
@@ -655,17 +655,17 @@ header.navigation {
       clear: both;
       content: "";
       display: table; }
-  /* line 42, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+  /* line 42, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
   header.navigation .logo {
     float: left;
     max-height: 60px;
     padding-left: 1em;
     padding-right: 2em; }
-    /* line 48, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+    /* line 48, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
     header.navigation .logo img {
       max-height: 60px;
       padding: 0.8em 0; }
-  /* line 56, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+  /* line 56, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
   header.navigation .navigation-menu-button {
     color: rgba(0, 0, 0, 0.7);
     display: block;
@@ -676,22 +676,22 @@ header.navigation {
     padding-right: 1em;
     text-transform: uppercase; }
     @media screen and (min-width: 53.75em) {
-      /* line 56, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+      /* line 56, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
       header.navigation .navigation-menu-button {
         display: none; } }
-    /* line 70, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+    /* line 70, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
     header.navigation .navigation-menu-button:focus, header.navigation .navigation-menu-button:hover {
       color: black; }
-  /* line 78, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+  /* line 78, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
   header.navigation nav {
     float: none;
     min-height: 60px;
     z-index: 9999999; }
     @media screen and (min-width: 53.75em) {
-      /* line 78, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+      /* line 78, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
       header.navigation nav {
         float: left; } }
-  /* line 88, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+  /* line 88, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
   header.navigation ul.navigation-menu {
     -webkit-transform-style: preserve-3d;
     clear: both;
@@ -701,16 +701,16 @@ header.navigation {
     padding: 0;
     width: 100%;
     z-index: 9999; }
-    /* line 98, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+    /* line 98, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
     header.navigation ul.navigation-menu.show {
       display: block; }
     @media screen and (min-width: 53.75em) {
-      /* line 88, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+      /* line 88, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
       header.navigation ul.navigation-menu {
         display: inline;
         margin: 0;
         padding: 0; } }
-  /* line 111, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+  /* line 111, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
   header.navigation ul li.nav-link {
     background: white;
     display: block;
@@ -721,46 +721,46 @@ header.navigation {
     width: 100%;
     z-index: 9999; }
     @media screen and (min-width: 53.75em) {
-      /* line 111, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+      /* line 111, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
       header.navigation ul li.nav-link {
         background: transparent;
         display: inline;
         line-height: 60px;
         text-decoration: none;
         width: auto; } }
-    /* line 129, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+    /* line 129, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
     header.navigation ul li.nav-link a {
       color: rgba(0, 0, 0, 0.7);
       display: inline-block;
       font-weight: 400; }
       @media screen and (min-width: 53.75em) {
-        /* line 129, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+        /* line 129, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
         header.navigation ul li.nav-link a {
           padding-right: 1em; } }
-      /* line 138, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+      /* line 138, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
       header.navigation ul li.nav-link a:focus, header.navigation ul li.nav-link a:hover {
         color: black; }
-  /* line 145, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+  /* line 145, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
   header.navigation .active-nav-item a {
     border-bottom: 1px solid rgba(255, 255, 255, 0.5);
     padding-bottom: 3px; }
-  /* line 152, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+  /* line 152, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
   header.navigation li.more.nav-link {
     padding-right: 0; }
     @media screen and (min-width: 53.75em) {
-      /* line 152, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+      /* line 152, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
       header.navigation li.more.nav-link {
         padding-right: 1em; } }
-    /* line 159, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+    /* line 159, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
     header.navigation li.more.nav-link > ul > li:first-child a {
       padding-top: 1em; }
-    /* line 163, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+    /* line 163, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
     header.navigation li.more.nav-link a {
       margin-right: 1em; }
-    /* line 167, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+    /* line 167, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
     header.navigation li.more.nav-link > a {
       padding-right: 0.6em; }
-    /* line 171, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+    /* line 171, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
     header.navigation li.more.nav-link > a:after {
       position: absolute;
       top: auto;
@@ -769,81 +769,81 @@ header.navigation {
       left: auto;
       content: '\25BE';
       color: rgba(0, 0, 0, 0.7); }
-  /* line 178, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+  /* line 178, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
   header.navigation li.more {
     overflow: visible;
     padding-right: 0; }
-    /* line 182, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+    /* line 182, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
     header.navigation li.more a {
       padding-right: 0.8em; }
-    /* line 186, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+    /* line 186, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
     header.navigation li.more > a {
       padding-right: 1.6em;
       position: relative; }
       @media screen and (min-width: 53.75em) {
-        /* line 186, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+        /* line 186, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
         header.navigation li.more > a {
           margin-right: 1em; } }
-      /* line 194, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+      /* line 194, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
       header.navigation li.more > a:after {
         content: '›';
         font-size: 1.2em;
         position: absolute;
         right: 0.5em; }
-    /* line 202, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+    /* line 202, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
     header.navigation li.more:focus > .submenu, header.navigation li.more:hover > .submenu {
       display: block; }
     @media screen and (min-width: 53.75em) {
-      /* line 178, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+      /* line 178, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
       header.navigation li.more {
         padding-right: 0.8em;
         position: relative; } }
-  /* line 213, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+  /* line 213, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
   header.navigation ul.submenu {
     display: none;
     padding-left: 0; }
     @media screen and (min-width: 53.75em) {
-      /* line 213, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+      /* line 213, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
       header.navigation ul.submenu {
         left: -1em;
         position: absolute;
         top: 1.5em; } }
     @media screen and (min-width: 53.75em) {
-      /* line 223, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+      /* line 223, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
       header.navigation ul.submenu .submenu {
         left: 11.8em;
         top: 0; } }
-    /* line 230, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+    /* line 230, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
     header.navigation ul.submenu li {
       display: block;
       padding-right: 0; }
       @media screen and (min-width: 53.75em) {
-        /* line 230, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+        /* line 230, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
         header.navigation ul.submenu li {
           line-height: 46.15385px; }
-          /* line 237, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+          /* line 237, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
           header.navigation ul.submenu li:first-child > a {
             border-top-left-radius: 3px;
             border-top-right-radius: 3px; }
-          /* line 242, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+          /* line 242, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
           header.navigation ul.submenu li:last-child > a {
             border-bottom-left-radius: 3px;
             border-bottom-right-radius: 3px;
             padding-bottom: 0.7em; } }
-      /* line 249, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+      /* line 249, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
       header.navigation ul.submenu li a {
         background-color: #f7f7f7;
         display: inline-block;
         text-align: right;
         width: 100%; }
         @media screen and (min-width: 53.75em) {
-          /* line 249, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+          /* line 249, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
           header.navigation ul.submenu li a {
             background-color: white;
             padding-left: 1em;
             text-align: left;
             width: 12em; } }
-  /* line 267, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+  /* line 267, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
   header.navigation .navigation-tools {
     background: #505050;
     clear: both;
@@ -852,12 +852,12 @@ header.navigation {
     padding-left: 0.5em;
     padding-right: 1em; }
     @media screen and (min-width: 53.75em) {
-      /* line 267, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+      /* line 267, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
       header.navigation .navigation-tools {
         background: transparent;
         clear: none;
         float: right; } }
-  /* line 282, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+  /* line 282, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
   header.navigation .sign-up {
     display: inline;
     float: right;
@@ -865,15 +865,15 @@ header.navigation {
     margin-top: 1em;
     padding: 0.75em 1em;
     text-transform: uppercase; }
-  /* line 293, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+  /* line 293, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
   header.navigation .search-bar {
     float: left;
     padding: 0.85em 0.6em 0.7em 0.6em;
     width: 60%; }
-    /* line 302, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+    /* line 302, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
     header.navigation .search-bar form {
       position: relative; }
-      /* line 305, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+      /* line 305, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
       header.navigation .search-bar form input[type=search] {
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
@@ -888,10 +888,10 @@ header.navigation {
         padding: 0.5em 0.8em;
         width: 100%; }
         @media screen and (min-width: 53.75em) {
-          /* line 305, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+          /* line 305, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
           header.navigation .search-bar form input[type=search] {
             width: 100%; } }
-      /* line 322, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+      /* line 322, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
       header.navigation .search-bar form button[type=submit] {
         bottom: 0.3em;
         left: auto;
@@ -900,34 +900,34 @@ header.navigation {
         position: absolute;
         right: 0.3em;
         top: 0.3em; }
-        /* line 331, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+        /* line 331, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
         header.navigation .search-bar form button[type=submit] img {
           height: 12px;
           opacity: 0.7;
           padding: 1px; }
     @media screen and (min-width: 53.75em) {
-      /* line 293, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+      /* line 293, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
       header.navigation .search-bar {
         display: inline-block;
         position: relative;
         width: 16em; }
-        /* line 344, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_nav.scss */
+        /* line 344, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_nav.scss */
         header.navigation .search-bar input {
           -webkit-box-sizing: border-box;
           -moz-box-sizing: border-box;
           box-sizing: border-box;
           display: block; } }
 
-/* line 1, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_hero.scss */
+/* line 1, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_hero.scss */
 .hero {
   padding-bottom: 3em;
   position: relative;
   z-index: 10; }
-  /* line 15, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_hero.scss */
+  /* line 15, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_hero.scss */
   .hero .hero-logo img {
     height: 4em;
     margin-bottom: 1em; }
-  /* line 20, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_hero.scss */
+  /* line 20, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_hero.scss */
   .hero .hero-inner {
     max-width: 68em;
     margin-left: auto;
@@ -946,35 +946,35 @@ header.navigation {
       clear: both;
       content: "";
       display: table; }
-    /* line 28, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_hero.scss */
+    /* line 28, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_hero.scss */
     .hero .hero-inner img {
       border-radius: 50%; }
-    /* line 32, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_hero.scss */
+    /* line 32, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_hero.scss */
     .hero .hero-inner .hero-copy {
       text-align: center; }
-      /* line 35, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_hero.scss */
+      /* line 35, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_hero.scss */
       .hero .hero-inner .hero-copy h1 {
         font-size: 1.6em;
         margin-bottom: 0.5em; }
         @media screen and (min-width: 53.75em) {
-          /* line 35, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_hero.scss */
+          /* line 35, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_hero.scss */
           .hero .hero-inner .hero-copy h1 {
             font-size: 1.8em; } }
-      /* line 44, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_hero.scss */
+      /* line 44, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_hero.scss */
       .hero .hero-inner .hero-copy p {
         font-weight: 200;
         line-height: 1.4em;
         margin: 0 auto 3em auto; }
         @media screen and (min-width: 53.75em) {
-          /* line 44, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_hero.scss */
+          /* line 44, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_hero.scss */
           .hero .hero-inner .hero-copy p {
             font-size: 1.1em;
             max-width: 40%; } }
-    /* line 56, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_hero.scss */
+    /* line 56, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_hero.scss */
     .hero .hero-inner button {
       padding: 0.7em 1em; }
 
-/* line 1, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_cards.scss */
+/* line 1, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_cards.scss */
 .cards {
   display: -webkit-box;
   display: -moz-box;
@@ -1000,7 +1000,7 @@ header.navigation {
   justify-content: space-between;
   -ms-flex-pack: justify; }
 
-/* line 7, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_cards.scss */
+/* line 7, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_cards.scss */
 .card {
   -webkit-flex-basis: 15em;
   -moz-flex-basis: 15em;
@@ -1021,11 +1021,11 @@ header.navigation {
   margin: 0 1em 1.5em 1em;
   position: relative;
   position: relative; }
-  /* line 40, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_cards.scss */
+  /* line 40, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_cards.scss */
   .card .card-image {
     overflow: hidden;
     max-height: 150px; }
-    /* line 44, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_cards.scss */
+    /* line 44, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_cards.scss */
     .card .card-image img {
       -webkit-transition: all 0.2s ease-in-out;
       -moz-transition: all 0.2s ease-in-out;
@@ -1034,7 +1034,7 @@ header.navigation {
       border-top-left-radius: 3px;
       border-top-right-radius: 3px;
       width: 100%; }
-  /* line 53, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_cards.scss */
+  /* line 53, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_cards.scss */
   .card .card-header {
     -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
@@ -1045,151 +1045,207 @@ header.navigation {
     font-weight: bold;
     line-height: 1.5em;
     padding: 0.5em 0.75em; }
-  /* line 63, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_cards.scss */
+  /* line 63, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_cards.scss */
   .card .card-copy {
     font-size: 0.9em;
     line-height: 1.5em;
     padding: 0.75em 0.75em; }
-    /* line 68, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_cards.scss */
+    /* line 68, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_cards.scss */
     .card .card-copy p {
       margin: 0 0 0.75em; }
-  /* line 73, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_cards.scss */
+  /* line 73, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_cards.scss */
   .card:focus, .card:hover {
     background-color: white; }
-    /* line 77, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_cards.scss */
+    /* line 77, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_cards.scss */
     .card:focus .card-image img, .card:hover .card-image img {
       background: #e2daac; }
-    /* line 81, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_cards.scss */
+    /* line 81, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_cards.scss */
     .card:focus .card-header, .card:hover .card-header {
       background-color: white; }
-  /* line 86, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_cards.scss */
+  /* line 86, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_cards.scss */
   .card:active {
     background-color: #f7f7f7; }
-    /* line 89, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_cards.scss */
+    /* line 89, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_cards.scss */
     .card:active .card-header {
       background-color: #f7f7f7; }
 
-/* line 1, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+/* line 1, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
 .wrapper-for-content-outside-of-footer {
   min-height: 100%;
   height: auto !important;
   height: 100%;
   margin: 0 auto -4em; }
 
-/* line 7, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+/* line 7, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
 html,
 body {
   height: 100%; }
 
-/* line 11, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+/* line 11, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
 .wrapper-for-content-outside-of-footer:after {
   content: '';
   display: block; }
 
-/* line 15, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
-.footer-2,
-.wrapper-for-content-outside-of-footer:after {
-  height: 17em; }
-  @media screen and (min-width: 53.75em) {
-    /* line 15, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
-    .footer-2,
-    .wrapper-for-content-outside-of-footer:after {
-      height: 4em; } }
+@media screen and (min-width: 53.75em) {
+  /* line 15, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
+  .footer-2,
+  .wrapper-for-content-outside-of-footer:after {
+    height: 4em; } }
 
-/* line 24, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+/* line 22, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
 .footer-2 {
-  background: #40526b;
+  background: black;
   padding: 1.5em;
   width: 100%;
   display: inline-block; }
-  /* line 31, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+  /* line 29, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
   .footer-2 ul {
     margin: 0;
     padding: 0;
     line-height: 1.5em; }
-  /* line 37, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+  /* line 35, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
   .footer-2 li {
     list-style: none; }
-  /* line 41, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+  /* line 39, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
   .footer-2 a {
     text-decoration: none; }
-  /* line 56, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+  /* line 54, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
   .footer-2 .footer-logo {
     margin-right: 1em;
     margin-bottom: 1em; }
     @media screen and (min-width: 53.75em) {
-      /* line 56, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+      /* line 54, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
       .footer-2 .footer-logo {
         float: left;
         margin-bottom: 0; } }
-  /* line 66, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+  /* line 64, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
   .footer-2 .footer-logo img {
     height: 1.6em; }
-  /* line 70, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+  /* line 68, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
   .footer-2 ul {
     margin-bottom: 1em; }
     @media screen and (min-width: 53.75em) {
-      /* line 70, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+      /* line 68, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
       .footer-2 ul {
         float: left;
         line-height: 1.8em;
         margin-left: 1em;
         margin-bottom: 0; } }
-  /* line 81, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+  /* line 79, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
   .footer-2 ul li {
     font-weight: 800;
     padding-right: 1em; }
     @media screen and (min-width: 53.75em) {
-      /* line 81, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+      /* line 79, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
       .footer-2 ul li {
         display: inline;
         text-align: left; } }
-  /* line 91, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+  /* line 89, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
   .footer-2 ul li a {
     color: rgba(255, 255, 255, 0.4); }
-    /* line 94, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+    /* line 92, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
     .footer-2 ul li a:focus, .footer-2 ul li a:hover {
       color: white; }
   @media screen and (min-width: 53.75em) {
-    /* line 100, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+    /* line 98, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
     .footer-2 .footer-secondary-links {
-      float: right; } }
-  /* line 105, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+      float: left; } }
+  /* line 103, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
   .footer-2 .footer-secondary-links li {
     font-size: 0.8em;
     font-weight: 400; }
-  /* line 110, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+  /* line 108, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
   .footer-2 .footer-secondary-links ul.footer-social {
     margin-top: 1em; }
     @media screen and (min-width: 53.75em) {
-      /* line 110, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+      /* line 108, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
       .footer-2 .footer-secondary-links ul.footer-social {
-        float: right;
+        float: left;
         margin-top: 0; } }
-    /* line 118, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+    /* line 116, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
     .footer-2 .footer-secondary-links ul.footer-social li {
       font-size: 1em;
-      float: left;
-      line-height: 0;
       padding-right: 0.7em; }
-      /* line 124, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+      /* line 120, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
       .footer-2 .footer-secondary-links ul.footer-social li:last-child {
         padding-right: 0; }
-    /* line 129, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+    /* line 125, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
     .footer-2 .footer-secondary-links ul.footer-social img {
       height: 1.6em;
       opacity: 0.7;
       padding: 1px; }
-      /* line 134, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/base/_footer.scss */
+      /* line 130, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_footer.scss */
       .footer-2 .footer-secondary-links ul.footer-social img:focus, .footer-2 .footer-secondary-links ul.footer-social img:hover {
         opacity: 1; }
 
-/* line 1, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/_global.css.scss */
+/* line 1, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_scroll.scss */
+.scroll-on-page {
+  display: inline-block;
+  margin: 0 15px; }
+  /* line 11, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_scroll.scss */
+  .scroll-on-page p {
+    color: #333;
+    line-height: 1.5; }
+  /* line 16, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_scroll.scss */
+  .scroll-on-page a {
+    color: #477DCA;
+    text-decoration: none; }
+  @media screen and (min-width: 53.75em) {
+    /* line 25, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_scroll.scss */
+    .scroll-on-page aside {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 31.76157%; }
+      /* line 87, /Users/dalek/.rvm/gems/ruby-2.2.0/gems/neat-1.7.1/app/assets/stylesheets/grid/_span-columns.scss */
+      .scroll-on-page aside:last-child {
+        margin-right: 0; } }
+  /* line 31, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_scroll.scss */
+  .scroll-on-page .scroll-on-page-link {
+    border-bottom: 1px solid rgba(71, 125, 202, 0.2);
+    display: block;
+    margin-right: 1.5em;
+    outline: none;
+    padding: 0.75em 0; }
+    /* line 38, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_scroll.scss */
+    .scroll-on-page .scroll-on-page-link:last-child {
+      margin-bottom: 1.5em; }
+  /* line 44, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_scroll.scss */
+  .scroll-on-page article h4 {
+    margin: 0 0 0.5em 0; }
+  /* line 48, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_scroll.scss */
+  .scroll-on-page article section p:last-of-type {
+    margin-bottom: 2em; }
+  @media screen and (min-width: 53.75em) {
+    /* line 43, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_scroll.scss */
+    .scroll-on-page article {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 65.88078%; }
+      /* line 87, /Users/dalek/.rvm/gems/ruby-2.2.0/gems/neat-1.7.1/app/assets/stylesheets/grid/_span-columns.scss */
+      .scroll-on-page article:last-child {
+        margin-right: 0; } }
+
+/* line 60, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_scroll.scss */
+.entry {
+  margin: 1em 0; }
+  /* line 63, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_scroll.scss */
+  .entry ul {
+    list-style-type: disc;
+    margin: 0;
+    padding: 0 0 0 2.5em; }
+
+/* line 70, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/base/_scroll.scss */
+.big {
+  font-size: 1.3em; }
+
+/* line 1, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/_global.css.scss */
 header.navigation {
   background-color: #fff;
   border-bottom: 1px solid #fff; }
 
-/* line 6, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/_global.css.scss */
+/* line 6, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/_global.css.scss */
 section {
   max-width: 68em;
   margin-left: auto;
@@ -1199,17 +1255,21 @@ section {
     clear: both;
     content: "";
     display: table; }
-  /* line 8, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/_global.css.scss */
+  /* line 8, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/_global.css.scss */
   section .cards {
     margin: 1em 0; }
 
-/* line 13, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/_global.css.scss */
+/* line 13, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/_global.css.scss */
 .chart {
   height: 70px;
   width: 300px;
   border-bottom: 1px solid #ccc;
   display: block;
   margin: 1em; }
-  /* line 20, /Users/dalek/Sites/sleng.github.io/source/assets/stylesheets/_global.css.scss */
+  /* line 20, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/_global.css.scss */
   .chart .bar {
     fill: #ccc; }
+
+/* line 25, /Users/dalek/Sites/lengsj.github.io/source/assets/stylesheets/_global.css.scss */
+.align {
+  margin: 0 1em 1.5em 1em; }
